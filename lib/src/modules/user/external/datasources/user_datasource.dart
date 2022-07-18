@@ -1,4 +1,4 @@
-import 'package:project_clean_code/src/modules/post/domain/errors/errors.dart';
+import 'package:project_clean_code/src/modules/user/domain/errors/errors.dart';
 
 import 'package:uno/uno.dart';
 

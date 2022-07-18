@@ -1,5 +1,5 @@
 import 'package:fpdart/fpdart.dart';
-import 'package:project_clean_code/src/modules/post/domain/entities/user.dart';
+import 'package:project_clean_code/src/modules/user/domain/entities/user.dart';
 
 import '../errors/errors.dart';
 

@@ -1,8 +1,8 @@
 import 'package:flutter_modular/flutter_modular.dart';
-import 'package:project_clean_code/src/modules/post/domain/repositories/users_repository.dart';
-import 'package:project_clean_code/src/modules/post/domain/usecases/get_users.dart';
-import 'package:project_clean_code/src/modules/post/infra/repositories/user_repository.dart';
-import 'package:project_clean_code/src/modules/post/presenter/pages/post_page.dart';
+import 'package:project_clean_code/src/modules/user/domain/repositories/users_repository.dart';
+import 'package:project_clean_code/src/modules/user/domain/usecases/get_users.dart';
+import 'package:project_clean_code/src/modules/user/infra/repositories/user_repository.dart';
+import 'package:project_clean_code/src/modules/user/presenter/pages/post_page.dart';
 import 'package:uno/uno.dart';
 import 'external/datasources/user_datasource.dart';
 import 'infra/datasources/user_datasource.dart';

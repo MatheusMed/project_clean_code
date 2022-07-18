@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:project_clean_code/src/modules/post/domain/usecases/get_users.dart';
-import 'package:project_clean_code/src/modules/post/presenter/states/user_states.dart';
+import 'package:project_clean_code/src/modules/user/domain/usecases/get_users.dart';
+import 'package:project_clean_code/src/modules/user/presenter/states/user_states.dart';
 
 class UserStore extends ValueNotifier<UserStates> {
   UserStore(this.getUsers) : super(EmpityUserStates());

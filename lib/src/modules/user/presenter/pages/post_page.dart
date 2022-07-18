@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 
-import 'package:project_clean_code/src/modules/post/presenter/states/user_states.dart';
-import 'package:project_clean_code/src/modules/post/presenter/store/user_store.dart';
+import 'package:project_clean_code/src/modules/user/presenter/states/user_states.dart';
+import 'package:project_clean_code/src/modules/user/presenter/store/user_store.dart';
 
 class UserPage extends StatefulWidget {
   const UserPage({Key? key}) : super(key: key);

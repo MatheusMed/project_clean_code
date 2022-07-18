@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 
-import 'package:project_clean_code/src/modules/post/user_module.dart';
+import 'package:project_clean_code/src/modules/user/user_module.dart';
 
 void main() {
   runApp(

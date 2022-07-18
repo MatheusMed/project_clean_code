@@ -1,5 +1,5 @@
-import 'package:project_clean_code/src/modules/post/infra/adapters/user_adapters.dart';
-import 'package:project_clean_code/src/modules/post/infra/datasources/user_datasource.dart';
+import 'package:project_clean_code/src/modules/user/infra/adapters/user_adapters.dart';
+import 'package:project_clean_code/src/modules/user/infra/datasources/user_datasource.dart';
 
 import '../../domain/errors/errors.dart';
 import '../../domain/entities/user.dart';
